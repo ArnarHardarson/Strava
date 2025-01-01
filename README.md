@@ -1,4 +1,4 @@
-Interacting with the Strava API.
+# Interacting with the Strava API.
 
 Data Collection: Scripts to fetch data from the Strava API.
 Data Analysis: Notebooks or scripts to analyze the retrieved data.
